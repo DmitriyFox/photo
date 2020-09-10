@@ -1,5 +1,5 @@
 ﻿body {
-  margin: 0 auto;
+  margin: 10px auto;
   padding: 0;
 }
 .container {
@@ -11,7 +11,7 @@
 /*  height: 200px; */
 }
 .imageBox {
-  width: 100%;
+  width: 90%;
   position: absolute;
   top: 0;
   left: 0;
